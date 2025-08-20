@@ -1,4 +1,5 @@
-﻿=== Checkout Field Manager (Checkout Manager) for WooCommerce ===
+﻿1
+=== Checkout Field Manager (Checkout Manager) for WooCommerce ===
 Contributors: quadlayers
 Donate link: https://quadlayers.com/
 Tags: checkout field editor, woocommerce checkout field editor, checkout manager, woocommerce checkout manager, checkout field customizer, checkout form editor, checkout form customizer, checkout, WooCommerce checkout, checkout form designer, woocommerce checkout fields, woocommerce checkout addons
